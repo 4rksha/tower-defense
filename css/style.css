@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'dpcomic';
+    src: url('fonts/dpcomic.ttf');
+}
+
+.area {
+    display: inline-block;
+}
+
+#font-loader {
+    visibility: hidden;
+    font-family: 'dpcomic';
+    position: relative;
+    bottom: 0%;
+}
